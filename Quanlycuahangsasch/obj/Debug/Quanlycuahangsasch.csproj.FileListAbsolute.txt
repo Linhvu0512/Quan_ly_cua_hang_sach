@@ -1,0 +1,101 @@
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Quanlycuahangsasch.exe.config
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Quanlycuahangsasch.exe
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Quanlycuahangsasch.pdb
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Bangtinhluong.resources
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Dangnhap.resources
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Hethong.resources
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Properties.Resources.resources
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Thongtinnhanvien.resources
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.csproj.GenerateResource.cache
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.exe
+E:\Công Nghệ Phần Mềm\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.pdb
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Quanlycuahangsasch.exe.config
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Quanlycuahangsasch.exe
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Quanlycuahangsasch.pdb
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.csprojAssemblyReference.cache
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Bangtinhluong.resources
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Dangnhap.resources
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Hethong.resources
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Properties.Resources.resources
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Thongtinnhanvien.resources
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.csproj.GenerateResource.cache
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.csproj.CoreCompileInputs.cache
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.exe
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.pdb
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Quanlybanhang.resources
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Inhoadon.resources
+E:\SoftWare Technology\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Quanlysanpham.resources
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Quanlycuahangsasch.exe.config
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Quanlycuahangsasch.exe
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Quanlycuahangsasch.pdb
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.csprojAssemblyReference.cache
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Bangtinhluong.resources
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Dangnhap.resources
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Hethong.resources
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Properties.Resources.resources
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Quanlybanhang.resources
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Quanlysanpham.resources
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.Thongtinnhanvien.resources
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.csproj.GenerateResource.cache
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.csproj.CoreCompileInputs.cache
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.exe
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.pdb
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\EnvDTE.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\stdole.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\Microsoft.MSXML.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SoftWare Technology\do an net\do an net\Quanlycuahangsasch\Quanlycuahangsasch\Quanlycuahangsasch\obj\Debug\Quanlycuahangsasch.csproj.CopyComplete
